@@ -14,8 +14,7 @@ function Header() {
         <Link to="/">
        
             <div>
-              <h1>Computer datails</h1>
-              <p>Каталог компьютерных деталей</p>
+            
             </div>
           
         </Link>
