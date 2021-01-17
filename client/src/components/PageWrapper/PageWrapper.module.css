@@ -1,0 +1,28 @@
+.layout {
+  min-height: 100vh;
+}
+
+
+
+.headerContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.userButton {
+  margin-right: 32px;
+}
+
+.content {
+  padding: 0 50px;
+  margin-top: 84px;
+  min-height: calc(100vh - 128px);
+}
+
+.footer {
+  height: 64px;
+  text-align: center;
+
+  width: 100%;
+}
