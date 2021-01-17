@@ -1,0 +1,94 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://www.intel.ru/content/dam/products/hero/foreground/badge-9th-gen-core-i7-1x1.png",
+      "description":"afasfa",
+      "name": "Intel Core i7-10700F",
+      "price": 24987,
+      "category": 0,
+      "rating": 1
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://www.notebookcheck-ru.com/fileadmin/Notebooks/AMD/ryzen5_badge.jpg",
+      "description":"afasfa",
+      "name": "AMD Ryzen 5 1600 BOX",
+      "price": 10199,
+      "category": 0,
+      "rating": 7
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/64yTkvkll-LzFc_J9dPp8jkdigIk_vNjNRGOubW6_OrehRPe_QvhWmpNCqcegoYwPVniBPgTtbfZ0eshhzYJAcql_3mqCZjLAHyDXbw8RBbgyZkLmxK8THguC_BLQSFV0u1IuVXuvfxoJA0X2HEJCwEsaJweDr9Bk7c",
+      "name": "ASUS ROG STRIX GeForce GTX 1080 TI 11GB",
+      "description":"afasfa",
+      "price": 73590,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51T1GaSIVLL._AC_.jpg",
+      "description":"afasfa",
+      "name": "GIGABYTE GeForce GTX 1060 G1 Gaming 6G",
+      "price": 26890,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://user-items.s1.citilink.ru/472684_01_b.jpg",
+      "description":"afasfa",
+      "name": "GIGABYTE AMD Radeon RX 580",
+      "price": 38190,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.ixbt.com/short/images/2017/Apr/show_img.jpg",
+      "description":"afasfa",
+      "name": "PowerColor AMD Radeon RX 550 Red Dragon",
+      "price": 6990,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://avatars.mds.yandex.net/get-mpic/1644362/img_id1929507582881657871.jpeg/9hq",
+      "description":"SocketAM4, AMD B450, mATX, Ret",
+      "name": "GIGABYTE B450M S2H",
+      "price": 5010,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://items.s1.citilink.ru/1375127_v01_b.jpg",
+      "description":"LGA 1200, Intel Z490, ATX, Ret",
+      "name": "ASUS ROG MAXIMUS XII HERO (WI-FI)",
+      "price": 36590,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.nix.ru/images/Patriot-PSD32G16002-2718242254.jpg?good_id=271824&width=500&height=500&view_id=2254",
+      "description":"DDR3 - 2ГБ 1600, DIMM, Ret",
+      "name": "PATRIOT PSD32G160081",
+      "price": 990,
+      "category": 3,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://maxmemory.ru/images/detailed/27/VENG_LPX_BLK_01.jpg",
+      "description":"DDR4 - 16ГБ 2400, DIMM, Ret",
+      "name": "CORSAIR Vengeance LPX CMK16GX4M1A2400C14",
+      "price": 6020,
+      "category": 3,
+      "rating": 8
+    }
+  ]
+}
